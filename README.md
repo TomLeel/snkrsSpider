@@ -12,6 +12,8 @@ node index
 
 借用的倍恰推送通知，使用前也请替换推送WEBHOOK_URL
 
+:blush:对你有帮助，点个星星吧 ~ :star:
+
 效果图：
 
 ![效果图1](https://github.com/TomLeel/snkrsSpider/blob/master/img/202004031740423.png)
