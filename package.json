@@ -1,0 +1,21 @@
+{
+  "name": "snkrs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bearyincoming": "0.0.2",
+    "cheerio": "^1.0.0-rc.3",
+    "child_process": "^1.0.2",
+    "log4js": "^3.0.5",
+    "moment": "^2.24.0",
+    "mongodb": "^3.3.2",
+    "superagent": "^5.1.0"
+  }
+}
